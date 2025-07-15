@@ -5,7 +5,7 @@
 
 ## 👋About Me
 
-Hello! I'm Aditya Prakash, a pre-final year B.TECH student specializing in Artificial Intelligence and Machine Learning at Birla Institute of Technology, Mesra. With a strong foundation in both theoretical and practical aspects of AI and web development, I aim to contribute to innovative projects and drive technological advancements.
+Hello! I'm Aditya Prakash, a final year B.TECH student specializing in Artificial Intelligence and Machine Learning at Birla Institute of Technology, Mesra. With a strong foundation in both theoretical and practical aspects of AI and web development, I aim to contribute to innovative projects and drive technological advancements.
 
 ---
 
@@ -22,7 +22,6 @@ Hello! I'm Aditya Prakash, a pre-final year B.TECH student specializing in Artif
 - Artificial Intelligence
 - Machine Learning
 - Web Development
-- Web 3
 
 ---
 
