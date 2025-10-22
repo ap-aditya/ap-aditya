@@ -5,7 +5,6 @@
 **🎓 AI/ML | 💻 Full-Stack | 🚀 Open Source Enthusiast**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-prakash-662186286)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prakash610aditya@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/prakash610aditya)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ap-aditya&color=brightgreen&style=for-the-badge)
