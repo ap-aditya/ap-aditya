@@ -76,15 +76,6 @@ I'm a **final-year B.TECH student** specializing in **Artificial Intelligence & 
 - 📚 **Massive Dataset**: Automated daily ingestion of latest ArXiv papers
 - 🔄 **Production Pipeline**: GitHub Actions workflow for continuous data updates
 - 🛠️ **Tech Stack**: `Python` • `Streamlit` • `Sentence Transformers` • `Pinecone` • `MongoDB`
-
-### 🤖 [Maverick - AI Career Agent](https://github.com/ap-aditya/maverick)
-> **Autonomous job search system with personalized fit analysis and application tracking**
-
-- 🎯 **Intelligent Matching**: AI-powered job-profile fit analysis with detailed insights
-- 📊 **Comprehensive Dashboard**: Modern Next.js interface with analytics and tracking
-- 🔄 **Automated Pipeline**: Daily job discovery across 25+ platforms (MAANG, startups, job boards)
-- 🛠️ **Tech Stack**: `Next.js` • `Python` • `LangGraph` • `Playwright` • `PostgreSQL` • `Groq`
-
 ---
 
 ## 📊 GitHub Stats
